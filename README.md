@@ -25,7 +25,7 @@
 ###
 ### --- Kubectl commands ---
 ###
-### kubectl apply -f whoami.yaml
+### kubectl apply -f *.yaml
 ### kubectl get deployment
 ### kubectl get pods -o wide
 ### kubectl get svc
