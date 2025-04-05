@@ -37,3 +37,9 @@
 ### kubectl get pods -n default
 ### 
 ### --- Add git to Argocd ---
+### Settings / Repositories
+### Add Repositories
+### Create Aplication
+### --- Add to host file Domain Name ---
+### sudo nano /etc/hosts
+### your_server_IP  whoami.db.local
