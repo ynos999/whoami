@@ -31,7 +31,6 @@
 ### kubectl get svc
 ### kubectl get ingress
 ### kubectl get namespace
-### kubectl get all -n whoami-ingress
 ### kubectl get secret
 ### kubectl describe ingress whoami-ingress
 ### kubectl get pods -n default
